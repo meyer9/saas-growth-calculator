@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saas-growth-calculator/static/css/main.2f06dc1a.chunk.css",
+    "main.js": "/saas-growth-calculator/static/js/main.04f3b518.chunk.js",
+    "main.js.map": "/saas-growth-calculator/static/js/main.04f3b518.chunk.js.map",
+    "runtime-main.js": "/saas-growth-calculator/static/js/runtime-main.a63536ce.js",
+    "runtime-main.js.map": "/saas-growth-calculator/static/js/runtime-main.a63536ce.js.map",
+    "static/js/2.921ea94f.chunk.js": "/saas-growth-calculator/static/js/2.921ea94f.chunk.js",
+    "static/js/2.921ea94f.chunk.js.map": "/saas-growth-calculator/static/js/2.921ea94f.chunk.js.map",
+    "index.html": "/saas-growth-calculator/index.html",
+    "precache-manifest.2d907aa820b6d03e0b22a4bd2158e040.js": "/saas-growth-calculator/precache-manifest.2d907aa820b6d03e0b22a4bd2158e040.js",
+    "service-worker.js": "/saas-growth-calculator/service-worker.js",
+    "static/css/main.2f06dc1a.chunk.css.map": "/saas-growth-calculator/static/css/main.2f06dc1a.chunk.css.map",
+    "static/js/2.921ea94f.chunk.js.LICENSE": "/saas-growth-calculator/static/js/2.921ea94f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a63536ce.js",
+    "static/js/2.921ea94f.chunk.js",
+    "static/css/main.2f06dc1a.chunk.css",
+    "static/js/main.04f3b518.chunk.js"
+  ]
+}
