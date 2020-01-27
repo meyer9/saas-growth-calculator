@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import NumberFormat from 'react-number-format';
 import Plot from 'react-plotly.js'
-import logo from './public/pagecheck.png'
+import logo from '../public/pagecheck.png'
 
 interface Money {
   formattedValue: string;
