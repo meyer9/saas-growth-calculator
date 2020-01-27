@@ -175,7 +175,7 @@ const App: React.FC = () => {
             />
           </div>
           <div className='pa4 bg-white mt3 mb3 flex lh-copy items-center'>
-            <img src='https://pagecheck.app/android-chrome-512x512.png' width='72px' height='72px' className='br3 mr3' alt='pagecheck logo' />
+            <img src='/pagecheck.png' width='72px' height='72px' className='br3 mr3' alt='pagecheck logo' />
             <div className='flex-grow-1'>
               <div className='f4'>Sponsored by <a className='blue' href='https://pagecheck.app'>page<strong>check</strong></a>.</div>
               <div>Convert more users by ensuring pages load fast. pagecheck monitors your website and alerts you of performance or security regressions.</div>
