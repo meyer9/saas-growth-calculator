@@ -3,6 +3,10 @@ import './App.css';
 import NumberFormat from 'react-number-format';
 import Plot from 'react-plotly.js'
 import logo from './pagecheck.png'
+import ReactGA from 'react-ga'
+
+ReactGA.initialize('UA-7290154-13')
+ReactGA.pageview('/')
 
 interface Money {
   formattedValue: string;
