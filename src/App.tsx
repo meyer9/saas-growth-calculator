@@ -134,6 +134,14 @@ const App: React.FC = () => {
           <div className='f1 tc pt3 b'>SaaS Growth Calculator</div>
           <div className='f5 tc mt3 mb3'>Calculate SaaS growth as a function of common metrics.</div>
           <div className='f5 tc mt3 mb3'>Built by <a href='https://twitter.com/meyer9_'>@meyer9_</a></div>
+          <div className='tc mt3 mb3'>
+            <a rel="noopener noreferrer" href="https://www.producthunt.com/posts/saas-growth-calculator?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-saas-growth-calculator" target="_blank">
+              <img
+                src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=182436&theme=light"
+                alt="SaaS Growth Calculator - Predict future growth using common SaaS metrics | Product Hunt Embed"
+                style={{"width": "250px", "height": "54px" }} />
+            </a>
+          </div>
           <div className='relative'>
             <Plot
               data={[
@@ -179,11 +187,11 @@ const App: React.FC = () => {
               style={ {width: '100%', height: '100%'}}
             />
           </div>
-          <div className='pa4 bg-white mt3 mb3 flex lh-copy items-center'>
-            <img src={logo} width='72px' height='72px' className='br3 mr3' alt='pagecheck logo' />
+          <div className='pa4 bg-white mt3 mb3 flex lh-copy items-center br3'>
+            <img src={logo} width='48px' height='48px' className='br3 mr3' alt='pagecheck logo' />
             <div className='flex-grow-1'>
-              <div className='f4'>Sponsored by <a className='blue' href='https://pagecheck.app'>page<strong>check</strong></a>.</div>
-              <div>Convert more users by ensuring pages load fast. pagecheck monitors your website and alerts you of performance or security regressions.</div>
+              <div className='f5'>Sponsored by <a className='blue' href='https://pagecheck.app'>page<strong>check</strong></a>.</div>
+              <div className='f6'>Convert more users by ensuring pages load fast. pagecheck monitors your website and alerts you of performance or security regressions.</div>
             </div>
           </div>
           <div className='w-100 bg-white br3 pa4 mt4 lh-copy'>
